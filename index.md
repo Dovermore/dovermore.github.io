@@ -1,21 +1,15 @@
-# This is the index page
+# Welcome to blog of Dovermore
+## Index
+- C Coding
+  1. [4-apr-2018 C-debug](https://github.com/Dovermore/dovermore.github.io/blob/master/4-apr-2018/C-debug.md)
+- Algorithm
+- General Python Coding
+- Machine Learning
+- Other Math Related
 
-## the Following is demonstrating the theme style
 
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+- Gandhi Peace
 ![Nuke](https://i.ytimg.com/vi/59SaPV8UwLU/hqdefault.jpg)
 
 [To Google](www.google.com)

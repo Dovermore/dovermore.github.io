@@ -1,11 +1,15 @@
 # Welcome to blog of Dovermore
 ## Index
 - C Coding
-  1. [4-apr-2018 C-debug](https://github.com/Dovermore/dovermore.github.io/blob/master/4-apr-2018/C-debug.md)
+  1. [4-apr-2018 C-debug](./master/4-apr-2018/C-debug.md)
 - Algorithm
+  1. [14-apr-2018 Dijkstra Understanding](./14-Apr-2018/DijkstraAlgorithm.md)
 - General Python Coding
 - Machine Learning
+  1. [Neural Network and it's different architecture in a Nutshell]() # To be added
+  2. [Bayesian Deep Learning and relation to Point Estimation]() # To be added
 - Other Math Related
+  1. [Maximum Likelihood Estimation understanding]() # To be added
 
 
 

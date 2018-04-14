@@ -3,7 +3,7 @@
 - C Coding
   1. [4-apr-2018 C-debug](./master/4-apr-2018/C-debug.md)
 - Algorithm
-  1. [14-apr-2018 Dijkstra Understanding](./14-Apr-2018/DijkstraAlgorithm.md)
+  1. [14-apr-2018 Dijkstra Intuition and Time Complexity](./14-Apr-2018/DijkstraAlgorithm.md)
 - General Python Coding
 - Machine Learning
   1. [Neural Network and it's different architecture in a Nutshell]() # To be added

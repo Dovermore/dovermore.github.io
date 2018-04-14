@@ -90,8 +90,8 @@ We will repeat such process till we traversed the whole graph's reachable node f
 ## Time complexity analysis
 > The following figs are referenced from Prof Justin.Z's lecture notes for COMP20007
 
-To compute the complexity after understanding the mechanics of algorithm is very simple.
-There are in total #V vertices and #E edges. We only check each edge one, add each vertices to the heap once during the search.
+To compute the complexity after understanding the mechanism of algorithm is very simple.
+There are in total #V vertices and #E edges. We only check each edge once, add each vertices to the heap once during the search.
 And this graph summarizes the operations and time we needed to process the graph.
 ![Fig4](./DijkstraSteps.png)
 

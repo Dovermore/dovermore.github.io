@@ -9,7 +9,8 @@
   1. [Neural Network and it's different architecture in a Nutshell]() # To be added
   2. [Bayesian Deep Learning and relation to Point Estimation]() # To be added
 - Other Math Related
-  1. [Maximum Likelihood Estimation understanding]() # To be added
+  1. [15-apr-2018 Variance, special relation and Entropy of data](./15-apr-2018/EntropyAndVariance.md)
+  2. [Maximum Likelihood Estimation understanding]() # To be added
 
 
 

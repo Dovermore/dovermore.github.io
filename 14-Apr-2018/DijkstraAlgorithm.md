@@ -95,5 +95,5 @@ There are in total #V vertices and #E edges. We only check each edge once, add e
 And this graph summarizes the operations and time we needed to process the graph.
 ![Fig4](./DijkstraSteps.png)
 
-And the overall summary is here
+And Using the above logic combined with different DATA STRUCTURE to find the time complexity of dijkstra algorithm. We yield the following operation time.
 ![Fig5](./DijkstraComplexity.png)
